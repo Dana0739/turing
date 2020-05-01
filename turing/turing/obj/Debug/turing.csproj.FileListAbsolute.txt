@@ -1,0 +1,15 @@
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\MainWindow.g.cs
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\App.g.cs
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\turing_MarkupCompile.cache
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\turing_MarkupCompile.lref
+D:\ITMO\дискретка\mt\turing\turing\bin\Debug\turing.exe.config
+D:\ITMO\дискретка\mt\turing\turing\bin\Debug\turing.exe
+D:\ITMO\дискретка\mt\turing\turing\bin\Debug\turing.pdb
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\MainWindow.baml
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\turing.g.resources
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\turing.Properties.Resources.resources
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\turing.csproj.GenerateResource.Cache
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\turing.csproj.CoreCompileInputs.cache
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\turing.exe
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\turing.pdb
+D:\ITMO\дискретка\mt\turing\turing\obj\Debug\turing.csprojAssemblyReference.cache
